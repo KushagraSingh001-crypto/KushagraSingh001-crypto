@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Profile! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heylo+I'm+Kushagra;I'm+a+student)](https://github.com/Halcyonic-01/)
 
-- 🔭 I’m currently working on **DevOps automation, cloud infrastructure, and open-source contributions**.
+- 🔭 I’m currently working on **DevOps automation and cloud infrastructure**.
 
 - 🛠️ I’m looking for guidance on **scalable system design, production-grade CI/CD, Docker/Kubernetes**, and **cloud deployment best practices**.
 
